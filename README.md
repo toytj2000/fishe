@@ -39,7 +39,7 @@ The dataset can be found here: https://www.kaggle.com/datasets/markdaniellampa/f
 
 4. Now train the model by running this command in the terminal `python3 train.py --model-dir=models/fish data/fish`
 
-**Note:** This will take approximately 5-6 hours
+**Note:** This will take approximately 6-7 hours
 
 5. Once done, export the model by running this script
 
