@@ -57,6 +57,6 @@ The dataset can be found here: https://www.kaggle.com/datasets/markdaniellampa/f
 
 10. If you look in your classification directory there will be a file called output.jpg (or whatever you named the output to be)
 
-11. Display the file to see if there is breast cancer
+11. Display the file to see the species of fish
 
 [View a video explanation here](video link)
