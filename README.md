@@ -22,7 +22,7 @@ The dataset can be found here: https://www.kaggle.com/datasets/markdaniellampa/f
 
 4. Download the dataset at https://www.kaggle.com/datasets/markdaniellampa/fish-dataset
 
-5. Make a .txt file called "labels.txt" in the "fish" directory and write down the following (in exactly that order)
+5. Make a .txt file called "labels.txt" in the "fish" directory and write down the following on a separate line (in exactly that order)
 
 `Bangus Big_Head_Carp` `Black_Spotted_Barb` `Catfish` `Climbing_Perch` `Fourfinger_Threadfin` `Freshwater_Eel` `Glass_Perchlet` `Goby` `Gold_Fish` `Gourami` `Grass_Carp` `Green_Spotted_Puffer` `Indian_Carp` `IndoPacific_Tarpon` `Jaguar_Gapote` `Janitor_Fish` `Knifefish` `LongSnouted_Pipefish` `Mosquito_Fish` `Mudfish` `Mullet` `Pangasius` `Perch` `Scat_Fish` `Silver_Barb` `Silver_Carp` `Silver_Perch` `Snakehead` `Tenpounder` `Tilapia`
 
