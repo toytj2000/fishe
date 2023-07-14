@@ -47,7 +47,7 @@ The dataset can be found here: https://www.kaggle.com/datasets/markdaniellampa/f
 
 6. If you are in the docker container, exit it by pressing ctrl+d
 
-7 .Change directories to `jetson-inference/python/training/classification`
+7. Change directories to `jetson-inference/python/training/classification`
 
 8. In the terminal enter in `NET=models/fish` and `DATASET=data/fish`
 
