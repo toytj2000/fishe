@@ -2,7 +2,8 @@
 
 This project can detect specific species of fish. 
 
-![add image descrition here](direct image link here)
+![Freshwater Eel Detection](https://i.imgur.com/e63UNzJ.png)
+![Gold Fish Detection](https://i.imgur.com/fPdkKzY.png)
 
 ## The Algorithm
 
@@ -59,4 +60,4 @@ The dataset can be found here: https://www.kaggle.com/datasets/markdaniellampa/f
 
 11. Display the file to see the species of fish
 
-[View a video explanation here](video link)
+[View a video explanation here](https://youtu.be/Y_Gqu6WqcWE)
